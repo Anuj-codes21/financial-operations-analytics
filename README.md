@@ -147,7 +147,7 @@ Comprehensive churn analysis by segment and features
 RFM-based customer segmentation dashboard
 
 ### Executive Dashboard
-![Executive Dashboard](financial_viz/16_FINAL_EXECUTIVE_DASHBOARD.png)
+![Executive Dashboard](16_FINAL_EXECUTIVE_DASHBOARD.png)
 Comprehensive executive summary dashboard
  
 ---
