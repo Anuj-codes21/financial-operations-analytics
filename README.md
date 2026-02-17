@@ -156,7 +156,8 @@ RFM-based customer segmentation dashboard for targeted marketing strategy.
 ---
 
 ### 4️⃣ Executive Dashboard
-![Executive Dashboard](kpi_summary.jpg)
+![Financial Dashboard](images/financial_viz.jpg)
+
 
 Comprehensive executive summary dashboard covering KPIs and financial performance.
 
