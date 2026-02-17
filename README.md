@@ -1,4 +1,4 @@
-## 📊 Project Overview
+## 📊 Financial Operations Analytics – Executive Dashboard
 
 A comprehensive end-to-end financial analytics project covering revenue forecasting, customer churn prediction, and profitability analysis for SaaS/subscription-based businesses.
 
@@ -57,7 +57,7 @@ financial-operations-analytics/
 
 ---
 
-## 🔬 Analytics Techniques Implemented
+##  Analytics Techniques Implemented
 
 ### Time Series Analysis
 - **ARIMA/SARIMA** modeling for revenue forecasting
@@ -88,7 +88,7 @@ financial-operations-analytics/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 ```bash
@@ -118,7 +118,7 @@ python financial_analytics.py
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 ```
 pandas>=1.3.0
 numpy>=1.21.0
@@ -152,7 +152,7 @@ scipy>=1.7.0
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 ### Technical Skills
 ✅ Time series forecasting (ARIMA, Prophet)  
@@ -323,7 +323,7 @@ This project template can be adapted for:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real-time prediction API (Flask/FastAPI)
 - [ ] Interactive dashboard (Plotly Dash/Streamlit)
@@ -336,6 +336,3 @@ This project template can be adapted for:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see below:
