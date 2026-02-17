@@ -156,7 +156,10 @@ RFM-based customer segmentation dashboard for targeted marketing strategy.
 ---
 
 ### 4️⃣ Executive Dashboard
-![Financial Dashboard](https://drive.google.com/drive/folders/1Qh-ZQcyfMojS0eUc7hHoOU8ozOxCIHV4)
+
+
+[Download Power BI File](PASTE_YOUR_DRIVE_LINK_HERE)
+
 
 
 Comprehensive executive summary dashboard covering KPIs and financial performance.
